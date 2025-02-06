@@ -1,5 +1,5 @@
-from .encryption import encrypt_file, decrypt_file
-from .file_transfer import send_file, receive_file
+from secure_share.encryption import encrypt_file, decrypt_file
+from secure_share.file_transfer import send_file, receive_file
 
 def main():
     print("\n=== Secure Share CLI ===")
