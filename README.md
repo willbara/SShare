@@ -2,6 +2,8 @@
 
 Secure Share is a command-line tool for encrypting and securely sharing files over the internet. It uses AES encryption to protect your files and provides simple file transfer over networks.
 
+![Screenshot](screenshot.png)
+
 ## Features
 
 - Encryption (AES-256) with password protection.
