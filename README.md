@@ -54,5 +54,3 @@ dist/secure-share.exe
 - [Cryptography Library](https://cryptography.io/en/latest/) 
 - [Socket Library](https://docs.python.org/3/library/socket.html) 
 - [PyInstaller](https://pyinstaller.org/en/stable/) 
-```
-```
