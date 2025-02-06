@@ -1,3 +1,0 @@
-C:/Users/Nick/Documents/Cloud/VSCode Projects/build/CMakeFiles/encrypt.dir
-C:/Users/Nick/Documents/Cloud/VSCode Projects/build/CMakeFiles/edit_cache.dir
-C:/Users/Nick/Documents/Cloud/VSCode Projects/build/CMakeFiles/rebuild_cache.dir

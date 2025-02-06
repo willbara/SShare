@@ -1,1 +1,0 @@
- "C:/Program Files/OpenSSL-Win64/libcrypto-3-x64.dll" "C:/Program Files/OpenSSL-Win64/libssl-3-x64.dll" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

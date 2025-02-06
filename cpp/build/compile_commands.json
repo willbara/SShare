@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/Nick/Documents/Cloud/VSCode Projects/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -Dencrypt_EXPORTS @CMakeFiles/encrypt.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\encrypt.dir\\encryption.cpp.obj -c \"C:\\Users\\Nick\\Documents\\Cloud\\VSCode Projects\\secure-share\\cpp\\encryption.cpp\"",
-  "file": "C:/Users/Nick/Documents/Cloud/VSCode Projects/secure-share/cpp/encryption.cpp",
-  "output": "CMakeFiles/encrypt.dir/encryption.cpp.obj"
-}
-]
