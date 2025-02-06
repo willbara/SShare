@@ -1,0 +1,12 @@
+README.md
+setup.py
+secure_share/__init__.py
+secure_share/cli.py
+secure_share/encryption.py
+secure_share/file_transfer.py
+secure_share.egg-info/PKG-INFO
+secure_share.egg-info/SOURCES.txt
+secure_share.egg-info/dependency_links.txt
+secure_share.egg-info/entry_points.txt
+secure_share.egg-info/requires.txt
+secure_share.egg-info/top_level.txt

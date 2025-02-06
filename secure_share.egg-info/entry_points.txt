@@ -1,0 +1,2 @@
+[console_scripts]
+secure-share = secure_share.cli:main
